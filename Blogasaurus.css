@@ -1,0 +1,46 @@
+body{
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-color: B0E0E6;
+}
+a{
+  font-size: 20px;
+  font-family: monospace;
+}
+h1{
+  color: purple;
+  font-size: 42px;
+  font-family: fantasy;
+}
+h2{
+  color: 00479D;
+  font-size: 26px;
+  font-family: fantasy;
+}
+h3{
+  font-weight: normal;
+  font-size: 20px;
+  font-family: monospace;
+}
+h4{
+  margin-top: 20px;
+}
+#WARNING{
+  color: red;
+  font-style: italic;
+}
+
+ol{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+ul{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+p{
+  text-indent = 300px;
+}
