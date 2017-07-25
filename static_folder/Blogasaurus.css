@@ -31,6 +31,11 @@ h4{
   font-style: italic;
 }
 
+input, textarea, select, button{
+  font-family: monospace;
+  font-size: 14px;
+}
+
 ol{
   font-size: 20px;
   font-family: monospace;
